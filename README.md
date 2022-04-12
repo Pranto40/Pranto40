@@ -6,7 +6,7 @@
 
 I'm a Font End Web Developer
 
-Skills: HTML / CSS /bootstrap / tailwind css
+Skills: HTML / CSS / bootstrap / tailwind css / react
 
 - 🔭 I’m currently working on this page. 
 
