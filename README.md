@@ -1,12 +1,12 @@
  ![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/45643533_334713583972770_8363199493167906816_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=32wIQmgvAeEAX8yfevU&_nc_ht=scontent.fdac5-2.fna&oh=fd8515f40e7a174f6b3d7446f7859cd5&oe=6169C2C3)
  
-### Hi there 👋, I'm Pranto
+### Hi there 👋, I'm Dulal Ahammed Pranto
 #### Web Developer
 
 
 I'm a Font End Web Developer
 
-Skills: HTML / CSS / bootstrap / tailwind css / react
+Skills: HTML / CSS / JavaScript / bootstrap / tailwind css / react
 
 - 🔭 I’m currently working on this page. 
 
